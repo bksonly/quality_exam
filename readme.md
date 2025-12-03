@@ -16,6 +16,7 @@ python3 trajectory_exam.py -i multi_sessions_20251201_213306/ -o output_dir/
 ```
 
 **输出**：
+ 默认输出路径在每个 `multi_sessions` 下
 - CSV统计文件：`{multi_session_name}_trajectory_stats.csv`
 - PNG轨迹图：每个session一个 `{session_name}_trajectory_plot.png`
 
